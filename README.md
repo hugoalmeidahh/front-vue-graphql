@@ -1,4 +1,4 @@
-# grapgql-vue-test
+# Front-end Vue with GraphQL
 
 ## Project setup
 ```
